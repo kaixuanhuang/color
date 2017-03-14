@@ -1,0 +1,18 @@
+{
+  "modules": {
+    "js": "0.6292d323488eb051776e.chunk.js"
+  },
+  "AuthPage": {
+    "js": "1.d5d819372c78d6f4747a.chunk.js"
+  },
+  "thirdparty": {
+    "js": "thirdparty.1dfe91ec641421ccb27d.bundle.js",
+    "css": "thirdparty.0b653dc439b53dd800b971e2554d60f1.css"
+  },
+  "main": {
+    "js": "main.04fd3921c9c3d9f398e1.bundle.js"
+  },
+  "polyfills": {
+    "js": "polyfills.eb7b01887bcc20a4501e.bundle.js"
+  }
+}
