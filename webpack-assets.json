@@ -1,0 +1,14 @@
+{
+  "modules": {
+    "js": "0.chunk.js"
+  },
+  "AuthPage": {
+    "js": "1.chunk.js"
+  },
+  "main": {
+    "js": "main.bundle.js"
+  },
+  "polyfills": {
+    "js": "polyfills.bundle.js"
+  }
+}
